@@ -1,0 +1,17 @@
+{
+  "clientID": "",
+  "clientSecret": "",
+  "accessToken": "",
+  "username": "",
+  "apiTrackerToken": "",
+  "channelsConfig": {
+    "(put a channel name here)": {
+      "channelName": "",
+      "channelConfig": {
+        "brawlProfile": "",
+        "apexProfile": ""
+      },
+      "allowedCommands": []
+    }
+  }
+}
